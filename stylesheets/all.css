@@ -4615,8 +4615,8 @@ fieldset:disabled .btn {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .navbar > .container,
@@ -4745,8 +4745,8 @@ fieldset:disabled .btn {
     position: absolute;
   }
   .navbar-expand-sm .navbar-nav .nav-link {
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: 30px;
+    padding-left: 30px;
   }
   .navbar-expand-sm .navbar-nav-scroll {
     overflow: visible;
@@ -4816,8 +4816,8 @@ fieldset:disabled .btn {
     position: absolute;
   }
   .navbar-expand-md .navbar-nav .nav-link {
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: 30px;
+    padding-left: 30px;
   }
   .navbar-expand-md .navbar-nav-scroll {
     overflow: visible;
@@ -4887,8 +4887,8 @@ fieldset:disabled .btn {
     position: absolute;
   }
   .navbar-expand-lg .navbar-nav .nav-link {
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: 30px;
+    padding-left: 30px;
   }
   .navbar-expand-lg .navbar-nav-scroll {
     overflow: visible;
@@ -4958,8 +4958,8 @@ fieldset:disabled .btn {
     position: absolute;
   }
   .navbar-expand-xl .navbar-nav .nav-link {
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: 30px;
+    padding-left: 30px;
   }
   .navbar-expand-xl .navbar-nav-scroll {
     overflow: visible;
@@ -5029,8 +5029,8 @@ fieldset:disabled .btn {
     position: absolute;
   }
   .navbar-expand-xxl .navbar-nav .nav-link {
-    padding-right: 0.5rem;
-    padding-left: 0.5rem;
+    padding-right: 30px;
+    padding-left: 30px;
   }
   .navbar-expand-xxl .navbar-nav-scroll {
     overflow: visible;
@@ -5102,8 +5102,8 @@ fieldset:disabled .btn {
 }
 
 .navbar-expand .navbar-nav .nav-link {
-  padding-right: 0.5rem;
-  padding-left: 0.5rem;
+  padding-right: 30px;
+  padding-left: 30px;
 }
 
 .navbar-expand .navbar-nav-scroll {
